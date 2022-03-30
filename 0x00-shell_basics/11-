@@ -1,0 +1,4 @@
+
+lists                                                                        
+#!/bin/bash
+ls -al . .. /boot
